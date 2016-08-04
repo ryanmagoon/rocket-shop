@@ -9,6 +9,7 @@
   "author": "Ryan Magoon",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.14.1",
     "underscore": "^1.8.3"
   }
 }
